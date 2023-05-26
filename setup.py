@@ -8,6 +8,6 @@ setup(
     author_email='yourname@example.com',
     packages=find_packages(),
     install_requires=[
-        'k2test'
+
     ],
 )
