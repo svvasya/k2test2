@@ -7,7 +7,7 @@ setup(
     author='Your Name',
     author_email='yourname@example.com',
     packages=find_packages(),  
-    package_data={'myproject': ['views.py']},
+    package_data={'k2test': ['views.py']},
     install_requires=[
 
     ],
