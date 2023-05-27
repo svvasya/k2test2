@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "k2test"
-version = "1.01"
+version = "0.1.0"
 description = "test components"
 authors = ["Василь Свідрік <svidryk@corp2.eu>"]
 license = "free"
