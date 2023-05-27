@@ -7,7 +7,7 @@ setup(
     author='Your Name',
     author_email='yourname@example.com',
     packages=find_packages(),
-    package_data={'myproject': ['views.py']},  # Додано 'views.py' як файл для копіювання
+    package_data={'views.py'},  # Додано 'views.py' як файл для копіювання
     install_requires=[
 
     ],
