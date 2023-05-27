@@ -6,7 +6,8 @@ setup(
     description='Description of my project',
     author='Your Name',
     author_email='yourname@example.com',
-    packages=find_packages(),    
+    packages=find_packages(),  
+    package_data={'myproject': ['views.py']},
     install_requires=[
 
     ],
