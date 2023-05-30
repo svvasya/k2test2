@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='k2test',
+    name='k2test2',
     version='1.0.0',
     description='Description of my project',
     author='Your Name',
