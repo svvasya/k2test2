@@ -6,7 +6,7 @@ setup(
     description='Description of my project',
     author='Your Name',
     author_email='yourname@example.com',    
-    package_data={'k2test': ['views.py', 'app.py', 'templates']},
+    package_data={'k2test': ['./views.py', './app.py', './templates']},
     install_requires=[
         # Додаткові залежності
     ],
