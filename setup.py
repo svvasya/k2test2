@@ -8,6 +8,7 @@ setup(
     author_email='yourname@example.com',    
     include_package_data=True,
     install_requires=[
+        beautifulsoup4
         # Додаткові залежності
     ],
 )
