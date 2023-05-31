@@ -6,7 +6,7 @@ setup(
     description='Description of my project',
     author='Your Name',
     author_email='yourname@example.com',    
-    packages=['k2test2'],
+    package_data={'k2test': ['views.py', 'app.py', 'templates']},
     install_requires=[
         'Flask',
         # Додаткові залежності
