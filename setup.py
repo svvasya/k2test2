@@ -8,7 +8,6 @@ setup(
     author_email='yourname@example.com',    
     package_data={'k2test': ['views.py', 'app.py', 'templates']},
     install_requires=[
-        'Flask',
         # Додаткові залежності
     ],
 )
